@@ -1,2 +1,2 @@
 # CarSearch
-scrapes, cleans and scores results from autotrader and kijiji searches, then outputs to csv/excel
+scrapes, cleans and scores results from autoTRADER and Kijiji searches, then outputs to csv/excel.
